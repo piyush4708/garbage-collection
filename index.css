@@ -274,7 +274,7 @@ li i {
 	}
 }
 @media screen and (max-width: 600px) {
-  body {
+  slider {
     width:100%
   }
 }
