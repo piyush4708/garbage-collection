@@ -273,6 +273,11 @@ li i {
 		width: 50%;
 	}
 }
+@media screen and (max-width: 600px) {
+  body {
+    width:100%
+  }
+}
 
 /* for mobile screen view */
 
